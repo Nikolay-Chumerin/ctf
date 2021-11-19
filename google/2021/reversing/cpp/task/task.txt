@@ -1,0 +1,1 @@
+We have this program's source code, but it uses a strange DRM solution. Can you crack it?
